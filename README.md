@@ -10,9 +10,7 @@
  - 🔭 I’m currently in highschool
  - 🌱 Major in CS and Cyber security
  - 💬 Open to communication
- - 📫 Looking for project ideas or work opportunities
-
-<br>
+ - 📫 Looking for project ideas and work opportunities
 
 ## ⚡ Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
